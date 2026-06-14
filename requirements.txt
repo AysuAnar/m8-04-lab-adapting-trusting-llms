@@ -1,4 +1,6 @@
 google-genai
+google-generativeai
 sentence-transformers
 numpy
 scikit-learn
+python-dotenv
